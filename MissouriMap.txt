@@ -1,30 +1,30 @@
 13
-Saint Louis
-Saint Charles
+Saint_Louis
+Saint_Charles
 Troy
-Hannibal 
-Moberly 
+Hannibal
+Moberly
 Columbia
-Jefferson City
+Jefferson_City
 Rolla
 Lebanon
 Springfield
 Joplin
-Kansas City
-Saint Joseph
+Kansas_City
+Saint_Joseph
 14
-Saint Joseph Kansas City 56
-Kansas City Joplin 156
-Kansas City Columbia 124
+Saint_Joseph Kansas_City 56
+Kansas_City Joplin 156
+Kansas_City Columbia 124
 Joplin Springfield 74
 Springfield Lebanon 54
 Lebanon Rolla 58
-Rolla Jefferson City 63
-Rolla Saint Louis 106
-Jefferson City Columbia 32
+Rolla Jefferson_City 63
+Rolla Saint_Louis 106
+Jefferson_City Columbia 32
 Columbia Moberly 36
 Moberly Hannibal 70
 Hannibal Troy 63
-Columbia Saint Charles 104
-Troy Saint Charles 35
-Saint Charles Saint Louis 24
+Columbia Saint_Charles 104
+Troy Saint_Charles 35
+Saint_Charles Saint_Louis 24

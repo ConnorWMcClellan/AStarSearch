@@ -1,0 +1,13 @@
+Saint_Louis 38.62 90.19
+Saint_Charles 38.78 90.49
+Troy 38.97 90.98
+Hannibal 39.70 91.35
+Moberly 39.41 92.43
+Columbia 38.95 92.33
+Jefferson_City 38.57 92.17
+Rolla 37.94 91.77
+Lebanon 37.68 92.66
+Springfield 37.20 93.29
+Joplin 37.08 94.51
+Kansas_City 39.09 94.57
+Saint_Joseph 39.76 94.84
